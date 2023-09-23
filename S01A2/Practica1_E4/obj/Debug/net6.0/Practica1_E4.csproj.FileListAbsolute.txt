@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\bin\Debug\net6.0\Practica1_E4.exe
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\bin\Debug\net6.0\Practica1_E4.deps.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\bin\Debug\net6.0\Practica1_E4.runtimeconfig.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\bin\Debug\net6.0\Practica1_E4.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\bin\Debug\net6.0\Practica1_E4.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.AssemblyInfo.cs
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\refint\Practica1_E4.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\Practica1_E4.genruntimeconfig.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S01A2\Practica1_E4\obj\Debug\net6.0\ref\Practica1_E4.dll
