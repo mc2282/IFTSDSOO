@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\bin\Debug\net6.0\SuperHeroes.exe
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\bin\Debug\net6.0\SuperHeroes.deps.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\bin\Debug\net6.0\SuperHeroes.runtimeconfig.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\bin\Debug\net6.0\SuperHeroes.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\bin\Debug\net6.0\SuperHeroes.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.AssemblyInfo.cs
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\refint\SuperHeroes.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\SuperHeroes.genruntimeconfig.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\SuperHeroes\obj\Debug\net6.0\ref\SuperHeroes.dll
