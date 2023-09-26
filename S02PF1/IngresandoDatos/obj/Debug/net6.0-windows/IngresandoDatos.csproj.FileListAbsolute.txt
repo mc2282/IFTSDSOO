@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\bin\Debug\net6.0-windows\IngresandoDatos.exe
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\bin\Debug\net6.0-windows\IngresandoDatos.deps.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\bin\Debug\net6.0-windows\IngresandoDatos.runtimeconfig.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\bin\Debug\net6.0-windows\IngresandoDatos.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\bin\Debug\net6.0-windows\IngresandoDatos.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.Form1.resources
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.Properties.Resources.resources
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.AssemblyInfo.cs
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\refint\IngresandoDatos.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\IngresandoDatos.genruntimeconfig.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S02PF1\IngresandoDatos\obj\Debug\net6.0-windows\ref\IngresandoDatos.dll
