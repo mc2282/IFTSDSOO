@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\bin\Debug\net6.0\TP1Televisor.exe
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\bin\Debug\net6.0\TP1Televisor.deps.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\bin\Debug\net6.0\TP1Televisor.runtimeconfig.json
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\bin\Debug\net6.0\TP1Televisor.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\bin\Debug\net6.0\TP1Televisor.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.AssemblyInfo.cs
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\refint\TP1Televisor.dll
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.pdb
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\TP1Televisor.genruntimeconfig.cache
+C:\Users\admin\Desktop\TECNICATURA EN DESARROLLO DE SOFTWARE 2023\Desarrollo de Sistemas Orientado a Objetos\repos github\S03PF1\TP1Televisor\obj\Debug\net6.0\ref\TP1Televisor.dll
